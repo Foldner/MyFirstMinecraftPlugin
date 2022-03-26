@@ -13,5 +13,6 @@ public final class JoinMessage extends SimplePlugin {
 
         registerCommand(new PlayerBonkCommand("bonk"));
         registerCommand(new SetBlockCommand("setblock|sb"));
+
     }
 }
